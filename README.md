@@ -1,2 +1,2 @@
 # Practices_Git
-just practicing
+just practicing session
